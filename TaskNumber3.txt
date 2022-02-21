@@ -1,0 +1,19 @@
+Баг-репорт:
+
+1. Summary - Отсутствие запятой в инструкции Set
+2. Project - Тестовое задание компании **ООО ИнтелСервис**
+3. Component - Ошибка в SQL заросе
+4. Version - 1.1
+5. Severity - S3 (Major)
+6. Priority - P2 (Medium)
+7. Status - Новый
+8. Author - Тестировщик
+9. Assigned To - Разработчик
+10. Description 
+    - Окружение - Microsoft Windows 10, браузер Google Chrome 98.0.4758.102
+    - Шаги
+        - Зайти на сайт “SQL Fiddle”
+        - Ввести SQL запрос
+    - ФР - Невыполнение SQL запроса
+    - ОР - Выполнение SQL запроса
+11. Attachmenet
